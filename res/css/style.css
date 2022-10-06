@@ -1,0 +1,11 @@
+body{background-color: burlywood;text-align: center;}
+
+#cookie{ max-width: 460px;width: 100%; display: block; margin: 0 auto;}
+
+#counter{
+    text-align: center;
+    font-size: 30px;}
+
+#upgrade{background-color: blanchedalmond ;text-align: center;font-size: 25px;padding: 10px;}
+#clicker{background-color: blanchedalmond ;text-align: center;font-size: 25px;padding: 10px;}
+#autoclicker{background-color: blanchedalmond ;text-align: center;font-size: 25px;padding: 10px;}
